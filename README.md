@@ -1,10 +1,12 @@
 # e-book gerado por IA Bootcamp Santander IA para Dev na DIO
- passo a passo de e-book gerado por IA e diagramado por mim como aluna na plataforma DIO.
-
- ## Ferramentas utilizadas:  
+ passo a passo de e-book gerado por IA e diagramado por mim como aluna na plataforma DIO.  
  
- Powerpoint,ChatGPT e Canva.  
-
+ ## Ferramenta utilizada  
+ 
+ Power Point,ChatGPT e Canva.  
+ 
+ ![Captura de tela_18-5-2024_01056_www linkedin com](https://github.com/Thayuana/e-book-gerado-por-IA-Bootcamp-Santander-IA-para-Dev-na-DIO/assets/170134813/14f82daa-cd15-4003-b1dd-6d9e5af7dc6f)  
+ 
  ## Texto(fonte)
 
  título padrão fonte 48  
