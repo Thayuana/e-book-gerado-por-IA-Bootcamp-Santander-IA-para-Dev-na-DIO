@@ -14,6 +14,9 @@
  subtítulo fonte     32  
  
  corpo texto fonte   24  
+
+ obs: deixar o máximo possivel com pouco texto e mais legível possivel.Exemplo: post do Instagran  
+ 
  
 
 ## Prompt de comando:
