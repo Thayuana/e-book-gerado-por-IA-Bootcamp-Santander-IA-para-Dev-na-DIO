@@ -25,4 +25,8 @@
  2-liste subtópicos de temas sobre desenvolvimento pessoal  
  
  3-explique resumidamente a importância de ter um bom método de estudo.  
+
+ 4-{regras} no máximo 5 linhas por bloco de explicação
+
+ 
  
